@@ -12,9 +12,9 @@ Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/aungpyaeap/sup
 
 ## Assignment Instructions
 
-*Milestones 1* dikerjakan dalam bentuk dashboard dengan dash dengan beberapa **kriteria wajib** di bawah ini:
+*Milestones 1* dikerjakan dalam bentuk dashboard dengan streamlit dengan beberapa **kriteria wajib** di bawah ini:
 
-1. *Library* utama yang digunakan adalah **Dash**.
+1. *Library* utama yang digunakan adalah **streamlit**.
 2. *Project* dinyatakan selesai dan diterima untuk dinilai jika sudah di-deploy ke Heroku.
 3. Dashboard yang dibuat terdiri dari 2 layout: Visualisasi dan Hypothesis Testing
 4. Untuk Layout Visualisasi:
@@ -49,9 +49,9 @@ Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/aungpyaeap/sup
 
 |Criteria|Meet Expectations|Points|
 |--- |--- |--- |
-|Dash Figure|Mampu membuat minimal 4 figure dengan dash| 20 pts each (Max 80) |
-|Dash Callback|Mampu membuat callback dengan dash| 50 pts |
-|Hypothesis Testing|Mampu melakukan hypothesis testing dan menampilkannya dengan dash| 50 pts |
+|Streamlit Figure|Mampu membuat minimal 4 figure dengan Streamlit| 20 pts each (Max 80) |
+|Streamlit Callback|Mampu membuat callback dengan streamlit| 50 pts |
+|Hypothesis Testing|Mampu melakukan hypothesis testing dan menampilkannya dengan streamlit| 50 pts |
 
 ### Readability
 
@@ -66,11 +66,3 @@ Unduh dataset yang akan digunakan [disini](https://www.kaggle.com/aungpyaeap/sup
 |Overall Analysis|Menarik Informasi/Kesimpulan Dari Keseluruhan Explorasi yang Dilakukan.| 10 pts |
 
 ---
-
-```{admonition} Total Points
-**200**
-```
-
-```{tip}
-Penilaian pada milestone dapat bersifat subyektif tergantung daripada layout yang dibuat, jenis callback, kekayaan fitur, dan lain sebagainya diluar dari rubric yang tertera.
-```
